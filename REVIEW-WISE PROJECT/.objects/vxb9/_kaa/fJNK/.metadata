@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Daikin 1.5 Ton 3 Star Inverter Split A",
+  "Type": "Screen",
+  "Id": "fJNKU7y_WEyc2cdE_5jp8Q",
+  "Reference": "-c_Cja-WIEG2Es29AcWDZQ/fJNKU7y_WEyc2cdE_5jp8Q",
+  "ParentRef": "-c_Cja-WIEG2Es29AcWDZQ/_kaa3hbTbkCTZfEcZl_X-w",
+  "Created": "2024-11-11T05:35:36.8693572Z",
+  "Updated": "2024-11-11T05:35:36.8693572Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EK3nbM3UBE2eUOWE5k7b4w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/dp/B0BK1KS6ZD" CVScreenId="073e7295-7664-41d0-8edf-5f539e9169c6" DesignTimeRectangle="894, 626, 30, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='acrPopover' tag='SPAN' class='a-size-base a-color-base' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span&amp;gt;span&amp;gt;span&amp;gt;a&amp;gt;span' isleaf='1' parentclass='a-popover-trigger a-declarative' /&gt;" Guid="10409a72-ba7d-44b6-8dad-8d6fcf9693d2" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='https://m.media-amazon.com/images/I/11EIQ5IGqaL._RC%7C01e5ncglxyL.css,01lF2n-pPaL.css,519YvOBDG8L.css,31uBZQYbDJL.css,11hEAfyy4tL.css,01qPl4hxayL.css,01pOTCa2wPL.css,413Vvv3GONL.css,11TIuySqr6L.css,01Rw4F+QU6L.css,11vYg+mVuGL.css,01J3raiFJrL.css,01IdKcBuAd*' title='Daikin 1.5 Ton 3 Star Inverter Split AC (Copper, PM 2.5 Filter, Triple Display, Dew Clean Technology, Coanda Airflow, 2024 Model, MTKL50U, White) : Amazon.in: Home &amp;amp; Kitchen' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="073e7295-7664-41d0-8edf-5f539e9169c6" DesignTimeRectangle="1207, -11993, 131, 22" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='askATFLink' tag='SPAN' aaname=' Search this page ' /&gt;" Guid="54e633f0-25d1-4122-bd35-6249fa3141ef" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ee0ecfdc5b9c7d45bc6e38e707b0cd14.png" xmlns="">0W7kvNhsAs0W5j8TmSmkgWw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

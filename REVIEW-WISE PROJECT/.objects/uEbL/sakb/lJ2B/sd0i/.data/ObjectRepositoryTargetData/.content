@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uY-hA111nkGCsnx4YQ1Olw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="chatgpt.com/c/673381c4-8184-8011-9219-d7c6828589fb" CVScreenId="86cea943-fbfe-4d8e-ba47-8059d98f350c" CvTextArea="1195, 536, 106, 20" CvType="AnyWordGroup" DesignTimeRectangle="1195, 533, 105, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl id='acrCustomerReviewText' tag='SPAN' /&gt;" Guid="a93dfaea-6113-438e-a359-c2229ba43a9f" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='https://m.media-amazon.com/images/I/11EIQ5IGqaL._RC%7C01e5ncglxyL.css,01lF2n-pPaL.css,519YvOBDG8L.css,31uBZQYbDJL.css,012SlIQp3XL.css,11b8oSWBBAL.css,01qPl4hxayL.css,01pOTCa2wPL.css,413Vvv3GONL.css,11TIuySqr6L.css,01Rw4F+QU6L.css,11JJsNcqOIL.css,01J3raiFJr*' title='Buy Aahwan Solid Black Wide Leg Baggy with Pockets Cargo Pants for Women&amp;apos;s &amp;amp; Girls&amp;apos; (235-Black-28) at Amazon.in' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="86cea943-fbfe-4d8e-ba47-8059d98f350c" CvTextArea="1326, 535, 131, 21" CvTextArgument="Search this page" CvType="Text" DesignTimeRectangle="1327, 533, 130, 22" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='askATFLink' tag='SPAN' /&gt;" Guid="53697c40-ea4f-4c98-84ba-fb55657732db" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1523fbb450bf966efef151be9d07de20.png" xmlns="">0YzKWXLrN-0WHVhuPC2573g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

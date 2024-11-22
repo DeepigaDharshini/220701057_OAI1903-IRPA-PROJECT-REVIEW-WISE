@@ -1,0 +1,14 @@
+﻿{
+  "Name": "See more reviews",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "N3kd0OTOGki7kY4VUd9Jgw",
+  "Reference": "-c_Cja-WIEG2Es29AcWDZQ/N3kd0OTOGki7kY4VUd9Jgw",
+  "ParentRef": "-c_Cja-WIEG2Es29AcWDZQ/lJ2BvZYvL0WR4UIvZqbA_w",
+  "Created": "2024-11-11T06:11:12.0278787Z",
+  "Updated": "2024-11-11T06:11:12.0278787Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

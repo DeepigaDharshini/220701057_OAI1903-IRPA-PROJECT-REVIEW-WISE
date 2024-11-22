@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Google",
+  "Type": "Screen",
+  "Id": "lJ2BvZYvL0WR4UIvZqbA_w",
+  "Reference": "-c_Cja-WIEG2Es29AcWDZQ/lJ2BvZYvL0WR4UIvZqbA_w",
+  "ParentRef": "-c_Cja-WIEG2Es29AcWDZQ/sakbAaEghEim2x7gRQnLew",
+  "Created": "2024-11-11T05:43:56.5665714Z",
+  "Updated": "2024-11-11T05:43:56.5665714Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

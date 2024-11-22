@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Daikin 1.5 Ton 3 Star I…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "NRyXk_2XBEGSAhNbLgQndA",
+  "Reference": "-c_Cja-WIEG2Es29AcWDZQ/NRyXk_2XBEGSAhNbLgQndA",
+  "ParentRef": "-c_Cja-WIEG2Es29AcWDZQ/lJ2BvZYvL0WR4UIvZqbA_w",
+  "Created": "2024-11-11T05:49:36.116027Z",
+  "Updated": "2024-11-11T05:49:36.116027Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

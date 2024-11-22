@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="iB4d6mJeIE-jrw9z4MvnUQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" CVScreenId="a7b30a47-6fd6-433b-8ab7-82acae9092db" CvElementArea="150, 64, 1608, 46" CvType="InputBox" DesignTimeRectangle="205, 72, 1457, 31" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Google - Google Chrome - DEEPIGA DHARSHINI C (rajalakshmi.edu.in*' role='pane' /&gt;&lt;ctrl name='Address and search bar' role='editable text' text='google.com' /&gt;" Guid="7e400e46-8ce6-4e10-8c03-a68515b69f86" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Google - Google Chrome' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f2efa9e2f87cc34dab0ba87778ad636d.png" xmlns="">0hNHRnF1RLkqRwyZkT8O_8g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

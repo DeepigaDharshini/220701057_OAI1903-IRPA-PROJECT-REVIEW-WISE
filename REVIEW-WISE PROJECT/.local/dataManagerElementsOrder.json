@@ -1,0 +1,57 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "url&Sequence_1",
+        "Reviews&Sequence_1",
+        "productTitle&Sequence_1",
+        "price&Sequence_1",
+        "aboutProduct&Sequence_1",
+        "reviewSummary&Sequence_1",
+        "rating&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "reviewDt_to_be_analyzed&Sequence_1",
+        "message&Sequence_1",
+        "positive_review_count&Sequence_1",
+        "negative_review_count&Sequence_1",
+        "neutral_review_count&Sequence_1",
+        "JSONResponse_from_ML_Skill&Sequence_1",
+        "JSONObject_From_ML_Skill&Sequence_1",
+        "very_positive_review_count&Sequence_1",
+        "very_negative_review_count&Sequence_1",
+        "weight_vp&Sequence_1",
+        "weight_p&Sequence_1",
+        "weight_neu&Sequence_1",
+        "weight_n&Sequence_1",
+        "weight_vn&Sequence_1",
+        "WSS&Sequence_1",
+        "recommendation_score&Sequence_1",
+        "index_ML_Skill_Loop&Sequence_1",
+        "choice&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "DataScraping From Amazon.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "url"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

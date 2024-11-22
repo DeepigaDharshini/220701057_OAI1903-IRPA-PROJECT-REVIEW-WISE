@@ -1,0 +1,13 @@
+﻿{
+  "Name": "About this item split a…",
+  "Type": "Element",
+  "Id": "8sFkaQ50O0mIyD7AKXKEWQ",
+  "Reference": "-c_Cja-WIEG2Es29AcWDZQ/8sFkaQ50O0mIyD7AKXKEWQ",
+  "ParentRef": "-c_Cja-WIEG2Es29AcWDZQ/lJ2BvZYvL0WR4UIvZqbA_w",
+  "Created": "2024-11-11T05:58:01.856098Z",
+  "Updated": "2024-11-11T05:58:01.856098Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

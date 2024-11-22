@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Qhe921_9Y0WzmqMBFkoNGw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="amazon.in/dp/B0BK1KS6ZD" CVScreenId="46d249a6-cdda-4e07-ba5c-aa8aa3955913" DesignTimeRectangle="987, 745, 111, 44" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl class='a-price-whole' parentid='corePriceDisplay_desktop_feature_div' tag='SPAN' /&gt;" Guid="eed78258-0216-4aae-b549-bb3ab62862ba" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' htmlwindowname='https://m.media-amazon.com/images/I/11EIQ5IGqaL._RC%7C01e5ncglxyL.css,01lF2n-pPaL.css,519YvOBDG8L.css,31uBZQYbDJL.css,11hEAfyy4tL.css,01qPl4hxayL.css,01pOTCa2wPL.css,413Vvv3GONL.css,11TIuySqr6L.css,01Rw4F+QU6L.css,11vYg+mVuGL.css,01J3raiFJrL.css,01IdKcBuAd*' title='Daikin 1.5 Ton 3 Star Inverter Split AC (Copper, PM 2.5 Filter, Triple Display, Dew Clean Technology, Coanda Airflow, 2024 Model, MTKL50U, White) : Amazon.in: Home &amp;amp; Kitchen' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="df4db89f8cfff77ad8d43fcdb6aaae4d.png" xmlns="">0HkcfqX46rkWNh2HIHdE0oQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
